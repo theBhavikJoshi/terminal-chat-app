@@ -1,0 +1,8 @@
+{
+  "name": "terminal-chat-app",
+  "version": "1.0.0",
+  "description": "A Chat App for Terminal",
+  "main": "index.js",
+  "author": "Bhavik Joshi",
+  "license": "MIT"
+}
