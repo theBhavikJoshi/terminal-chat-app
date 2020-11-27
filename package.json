@@ -4,5 +4,13 @@
   "description": "A Chat App for Terminal",
   "main": "index.js",
   "author": "Bhavik Joshi",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "dotenv": "^8.2.0",
+    "ioredis": "^4.19.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
 }
